@@ -1,4 +1,4 @@
-# power-of-2 quant AlexNet model
+# Power-of-2 quant AlexNet model
 Goal:
 Doing post-training quanatization on AlexNet, without modifying training process.
 
