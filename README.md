@@ -1,1 +1,1 @@
-# power-of-2-quant-AlexNet-model
+# power-of-2 quant AlexNet model
